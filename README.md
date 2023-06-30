@@ -1,4 +1,7 @@
 # business_card
+# Widget tree :
+https://www.figma.com/file/scgg50Q5DFZnychZB0GVKJ/flutter-Widget-tree?type=whiteboard&node-id=0%3A1&t=k5ZA5b1x4WBwviPJ-1
+# Screenshoot
 ![Screenshot_1687897311](https://github.com/parvezahmed404/businesscardApp/assets/121683898/20370fe8-bda7-4b4b-b862-ccc918ef1d64)
 
 
